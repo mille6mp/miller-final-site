@@ -1,0 +1,63 @@
+/* add your custom css here */
+/* do NOT edit the styles.css file */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/*  font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif; */
+header{
+    background-color: #7B9C72;
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Poppins:wght@600', sans-serif;
+}
+
+nav{
+    background-color: #E1D7CC;
+}
+
+h1{
+    font-family: 'Poppins:wght@800', sans-serif;
+}
+
+h2{
+    font-family: 'Poppins:wght@800', sans-serif;
+}
+
+p{
+    font-family: 'PT Sans', sans-serif;
+}
+
+#about{
+    background-color: #EBE3DC;
+}
+#breakfast{
+    background-color: #E1D7CC;
+}
+
+#lunch{
+    background-color: #EBE3DC;
+}
+
+#dinner{
+    background-color: #E1D7CC;
+}
+
+#snacks{
+    background-color: #EBE3DC;
+}
+
+#dessert{
+    background-color: #E1D7CC;
+}
+
+#contact{
+    background-color: #EBE3DC;
+}
+
+footer{
+    background-color: #E1D7CC;
+}
+
